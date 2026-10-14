@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow==2.21.0
+xgboost
+akshare
+baostock
+tushare
+requests
+scipy
