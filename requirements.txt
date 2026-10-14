@@ -3,10 +3,9 @@ pandas
 numpy
 matplotlib
 scikit-learn
-tensorflow==2.21.0
+tensorflow==2.13.0
 xgboost
 akshare
 baostock
-tushare
 requests
 scipy
